@@ -1,0 +1,17 @@
+{
+  "name": "環教旅遊 2 號：綠色旅遊規劃大挑戰",
+  "short_name": "綠色旅遊規劃",
+  "description": "環境教育互動遊戲：綠色旅遊規劃挑戰",
+  "start_url": "index2.html",
+  "display": "standalone",
+  "background_color": "#eaf6f5",
+  "theme_color": "#2d5a27",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
